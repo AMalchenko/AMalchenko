@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anastasiia</h1>
-<h3 align="center">I am a Junior Data Analyst!</h3>
+<h1 align="center">Привет 👋, Я Анастасия </h1>
+<h3 align="center">Начинающий аналитик данных!</h3>
 
 
 ### 💻 Languages and Tools
